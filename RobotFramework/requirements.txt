@@ -1,0 +1,7 @@
+#Execute cmd pip install -r requirements.txt
+robotframework
+robotframework-seleniumlibrary
+robotframework-pabot
+robotframework-datadriver
+webdrivermanager
+allure-robotframework
